@@ -8,7 +8,7 @@
 
 
 # 🖥️ Demo
-- bck-movie-site.netlify.app
+- https://bck-movie-site.netlify.app/
 
 # 🧰 Technologies Used
 
