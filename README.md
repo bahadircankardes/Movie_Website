@@ -1,7 +1,23 @@
 # Movie_Website
 
-<h1>Screen GIF</h1>
+<p>In this project, a great movie website was created using html, css and js.</p>
 
-<p>“This project is a personal front-end practice project. It is not affiliated with or endorsed by <b> Real Site Name</b>.”</p>
+# Preview
 
-![](screen.gif)
+![](screen.gif) 
+
+
+# 🖥️ Demo
+- bck-movie-site.netlify.app
+
+# 🧰 Technologies Used
+
+- HTML5 : Structural editing and content creation.
+- CSS3 : Style and design. Especially for dark/light mode.
+- JavaScript: Dynamic properties and interactions.
+
+
+# 📧 Contact
+
+- kardes126@gmail.com
+
